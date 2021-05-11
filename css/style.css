@@ -317,10 +317,10 @@ position: absolute;
     right: 0;
     left: 0;
     width: 100%;
-    height: 500px;
+    height: 449px;
     z-index: -1;
     line-height: 1px;
-    margin-top: -13%;
+    margin-top: -10%;
 }
 .footer-content{
 /* margin-top:  ; */
@@ -442,10 +442,10 @@ position: absolute;
     right: 0;
     left: 0;
     width: 100%;
-    height: 550px;
+    height: 480px;
     z-index: -1;
     line-height: 1px;
-    margin-top: -20%;
+    margin-top: -15%;
 }
 .footer-content{
 /* margin-top:  ; */
